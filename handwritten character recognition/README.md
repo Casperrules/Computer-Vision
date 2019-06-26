@@ -17,3 +17,4 @@ We crop the image for the bounding box to segment the charaters in the string.
 ### The final implimentation:
 We pass the croped images to the network and print out the most probable class for the image
 We store the images temperorily in a temp folder in a .jpg format. The network needs to be fed images of the same format.
+The folder also consists of a pdf describing the codes and output for the sample input
